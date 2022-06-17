@@ -1,0 +1,8 @@
+RenderMethod: vulkan
+Vendor: 0x8086
+Device: 0x9a70
+API: 1.2.203
+Driver: 0.404.1338
+DeviceType: integrated
+DeviceName: Intel(R) UHD Graphics
+Denylisted: no

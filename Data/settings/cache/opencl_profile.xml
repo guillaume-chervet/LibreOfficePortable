@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile>
+ <version>LibreOffice v1</version>
+ <device>
+  <type>opencl</type>
+  <name>Intel(R) UHD Graphics</name>
+  <driver>30.0.101.1338</driver>
+  <time>max</time>
+  <errors>false</errors>
+ </device>
+ <device>
+  <type>opencl</type>
+  <name>NVIDIA T1200 Laptop GPU</name>
+  <driver>512.18</driver>
+  <time>38347</time>
+  <errors>false</errors>
+ </device>
+ <device>
+  <type>native</type>
+  <time>2150400</time>
+  <errors>false</errors>
+ </device>
+</profile>
